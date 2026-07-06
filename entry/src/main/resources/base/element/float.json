@@ -1,0 +1,265 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "font_small",
+      "value": "9"
+    },
+    {
+      "name": "font_xlarge",
+      "value": "12"
+    },
+    {
+      "name": "font_medium",
+      "value": "10"
+    },
+    {
+      "name": "radius_panel",
+      "value": "5"
+    },
+    {
+      "name": "screen_size_small",
+      "value": "230"
+    },
+    {
+      "name": "font_tiny",
+      "value": "8"
+    },
+    {
+      "name": "font_large",
+      "value": "11"
+    },
+    {
+      "name": "font_xxlarge",
+      "value": "14"
+    },
+    {
+      "name": "button_height_small",
+      "value": "28"
+    },
+    {
+      "name": "button_height_medium",
+      "value": "32"
+    },
+    {
+      "name": "button_height_large",
+      "value": "40"
+    },
+    {
+      "name": "slider_block_size",
+      "value": "12"
+    },
+    {
+      "name": "slider_track_thickness",
+      "value": "2"
+    },
+    {
+      "name": "radius_circle",
+      "value": "160"
+    },
+
+    {
+      "name": "radius_button",
+      "value": "8"
+    },
+    {
+      "name": "radius_round_button",
+      "value": "10"
+    },
+    {
+      "name": "radius_pill",
+      "value": "20"
+    },
+    {
+      "name": "padding_small",
+      "value": "5"
+    },
+    {
+      "name": "padding_medium",
+      "value": "10"
+    },
+    {
+      "name": "padding_large",
+      "value": "15"
+    },
+    {
+      "name": "padding_xlarge",
+      "value": "20"
+    },
+    {
+      "name": "top_bar_height",
+      "value": "35"
+    },
+    {
+      "name": "default_component_width",
+      "value": "90"
+    },
+    {
+      "name": "default_component_height",
+      "value": "90"
+    },
+    {
+      "name": "default_component_x",
+      "value": "115"
+    },
+    {
+      "name": "default_component_y",
+      "value": "115"
+    },
+    {
+      "name": "slider_width_min",
+      "value": "40"
+    },
+    {
+      "name": "slider_width_max",
+      "value": "150"
+    },
+    {
+      "name": "slider_height_min",
+      "value": "40"
+    },
+    {
+      "name": "slider_height_max",
+      "value": "150"
+    },
+    {
+      "name": "slider_min_width_min",
+      "value": "20"
+    },
+    {
+      "name": "slider_min_width_max",
+      "value": "80"
+    },
+    {
+      "name": "slider_max_width_min",
+      "value": "70"
+    },
+    {
+      "name": "slider_max_width_max",
+      "value": "160"
+    },
+    {
+      "name": "slider_weight_min",
+      "value": "0.5"
+    },
+    {
+      "name": "slider_weight_max",
+      "value": "3"
+    },
+    {
+      "name": "slider_offset_min",
+      "value": "-40"
+    },
+    {
+      "name": "slider_offset_max",
+      "value": "40"
+    },
+    {
+      "name": "slider_margin_min",
+      "value": "0"
+    },
+    {
+      "name": "slider_margin_max",
+      "value": "40"
+    },
+    {
+      "name": "slider_bottom_offset_min",
+      "value": "0"
+    },
+    {
+      "name": "slider_bottom_offset_max",
+      "value": "50"
+    },
+    {
+      "name": "slider_position_min",
+      "value": "0"
+    },
+    {
+      "name": "slider_position_max",
+      "value": "230"
+    },
+    {
+      "name": "step_size",
+      "value": "5"
+    },
+    {
+      "name": "step_margin",
+      "value": "2"
+    },
+    {
+      "name": "step_weight",
+      "value": "0.5"
+    },
+    {
+      "name": "animation_duration",
+      "value": "800"
+    },
+    {
+      "name": "animation_steps",
+      "value": "20"
+    },
+    {
+      "name": "animation_interval",
+      "value": "16"
+    },
+    {
+      "name": "long_press_duration",
+      "value": "1500"
+    },
+    {
+      "name": "safe_area_top",
+      "value": "15"
+    },
+    {
+      "name": "safe_area_bottom",
+      "value": "20"
+    },
+    {
+      "name": "safe_area_left",
+      "value": "12"
+    },
+    {
+      "name": "safe_area_right",
+      "value": "12"
+    },
+    {
+      "name": "safe_area_offset",
+      "value": "25"
+    },
+    {
+      "name": "debug_marker_size",
+      "value": "3"
+    },
+    {
+      "name": "debug_line_width",
+      "value": "1.5"
+    },
+    {
+      "name": "debug_font_size",
+      "value": "7"
+    },
+    {
+      "name": "panel_width_percent",
+      "value": "88"
+    },
+    {
+      "name": "panel_position_y_percent",
+      "value": "30"
+    },
+    {
+      "name": "panel_opacity",
+      "value": "0.92"
+    },
+    {
+      "name": "top_bar_opacity",
+      "value": "0.8"
+    },
+    {
+      "name": "swipe_threshold",
+      "value": "40"
+    }
+  ]
+}

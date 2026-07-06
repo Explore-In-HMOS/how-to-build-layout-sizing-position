@@ -1,0 +1,196 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "vibrate_reason",
+      "value": "vibrate"
+    },
+    {
+      "name": "module_size",
+      "value": "Size"
+    },
+    {
+      "name": "module_sizing",
+      "value": "Sizing"
+    },
+    {
+      "name": "module_margin",
+      "value": "Margin"
+    },
+    {
+      "name": "module_bottom_offset",
+      "value": "BtmOff"
+    },
+    {
+      "name": "module_position",
+      "value": "Pos"
+    },
+    {
+      "name": "module_offset",
+      "value": "Offset"
+    },
+    {
+      "name": "module_location",
+      "value": "Loc"
+    },
+    {
+      "name": "module_safe_area",
+      "value": "Safe"
+    },
+    {
+      "name": "symbol_location",
+      "value": "📍"
+    },
+    {
+      "name": "symbol_dimension",
+      "value": "📐"
+    },
+    {
+      "name": "symbol_close",
+      "value": "✕"
+    },
+    {
+      "name": "symbol_check",
+      "value": "✓"
+    },
+    {
+      "name": "symbol_warning",
+      "value": "⚠️"
+    },
+    {
+      "name": "symbol_gear",
+      "value": "⚙️"
+    },
+    {
+      "name": "text_size",
+      "value": "Size"
+    },
+    {
+      "name": "text_sizing",
+      "value": "Sizing"
+    },
+    {
+      "name": "text_margin",
+      "value": "Margin"
+    },
+    {
+      "name": "text_bottom",
+      "value": "Bottom"
+    },
+    {
+      "name": "text_position",
+      "value": "Position"
+    },
+    {
+      "name": "text_offset",
+      "value": "Offset"
+    },
+    {
+      "name": "text_offset_demo",
+      "value": "Offset Demo"
+    },
+    {
+      "name": "text_location",
+      "value": "Location"
+    },
+    {
+      "name": "text_safe_area",
+      "value": "Safe Area"
+    },
+    {
+      "name": "text_round_display",
+      "value": "Round Display"
+    },
+    {
+      "name": "hint_offset_realtime",
+      "value": "Offset applies in real-time"
+    },
+    {
+      "name": "label_width",
+      "value": "W"
+    },
+    {
+      "name": "label_height",
+      "value": "H"
+    },
+    {
+      "name": "label_min",
+      "value": "Min"
+    },
+    {
+      "name": "label_max",
+      "value": "Max"
+    },
+    {
+      "name": "label_weight",
+      "value": "Wgt"
+    },
+    {
+      "name": "label_offset",
+      "value": "Offset"
+    },
+    {
+      "name": "label_position_x",
+      "value": "X"
+    },
+    {
+      "name": "label_position_y",
+      "value": "Y"
+    },
+    {
+      "name": "label_offset_x",
+      "value": "ΔX"
+    },
+    {
+      "name": "label_offset_y",
+      "value": "ΔY"
+    },
+    {
+      "name": "label_left",
+      "value": "Left"
+    },
+    {
+      "name": "label_top",
+      "value": "Top"
+    },
+    {
+      "name": "label_right",
+      "value": "Right"
+    },
+    {
+      "name": "label_bottom",
+      "value": "Bottom"
+    },
+    {
+      "name": "label_safe",
+      "value": "Safe"
+    },
+    {
+      "name": "margin_short_u",
+      "value": "U"
+    },
+    {
+      "name": "margin_short_h",
+      "value": "H"
+    },
+    {
+      "name": "margin_short_v",
+      "value": "V"
+    },
+    {
+      "name": "margin_short_i",
+      "value": "I"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#0D0D0D"
+    },
+    {
+      "name": "background_dark",
+      "value": "#0D0D0D"
+    },
+    {
+      "name": "panel_background",
+      "value": "#F00F0F14"
+    },
+    {
+      "name": "top_bar_background",
+      "value": "#80000000"
+    },
+    {
+      "name": "size_color",
+      "value": "#FF6B6B"
+    },
+    {
+      "name": "sizing_color",
+      "value": "#4ECDC4"
+    },
+    {
+      "name": "margin_color",
+      "value": "#45B7D1"
+    },
+    {
+      "name": "bottom_offset_color",
+      "value": "#F7B731"
+    },
+    {
+      "name": "position_color",
+      "value": "#E74C3C"
+    },
+    {
+      "name": "offset_color",
+      "value": "#9B59B6"
+    },
+    {
+      "name": "location_color",
+      "value": "#1ABC9C"
+    },
+    {
+      "name": "safe_area_color",
+      "value": "#3498DB"
+    },
+    {
+      "name": "status_safe",
+      "value": "#00FF00"
+    },
+    {
+      "name": "status_warning",
+      "value": "#FFA500"
+    },
+    {
+      "name": "status_critical",
+      "value": "#FF0000"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "text_hint",
+      "value": "#888888"
+    },
+    {
+      "name": "text_dark",
+      "value": "#555555"
+    },
+    {
+      "name": "border_dark",
+      "value": "#333333"
+    },
+    {
+      "name": "border_light",
+      "value": "#2A2A2A"
+    },
+    {
+      "name": "button_active",
+      "value": "#45B7D1"
+    },
+    {
+      "name": "button_inactive",
+      "value": "#2A2A2A"
+    },
+    {
+      "name": "button_reset",
+      "value": "#E74C3C"
+    },
+    {
+      "name": "button_animate",
+      "value": "#9B59B6"
+    },
+    {
+      "name": "button_close",
+      "value": "#888888"
+    },
+    {
+      "name": "debug_box_safe",
+      "value": "#00FF00"
+    },
+    {
+      "name": "debug_box_warning",
+      "value": "#FFA500"
+    },
+    {
+      "name": "debug_box_critical",
+      "value": "#FF0000"
+    },
+    {
+      "name": "debug_center",
+      "value": "#666666"
+    },
+    {
+      "name": "debug_grid",
+      "value": "#444444"
+    },
+    {
+      "name": "debug_frame",
+      "value": "#2A2A2A"
+    },
+    {
+      "name": "transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "safe_area_fill",
+      "value": "#0F00FF00"
+    },
+    {
+      "name": "clip_area_fill",
+      "value": "#0FFF0000"
+    },
+    {
+      "name": "animating_text",
+      "value": "#FFD700"
+    }
+  ]
+}
